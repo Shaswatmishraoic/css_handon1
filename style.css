@@ -1,0 +1,42 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: tomato;
+  font-style: italic;
+  line-height: 50 px;
+}
+
+ol {
+  color: maroon;
+}
+
+li {
+  line-height: 5;
+}
+
+.lt{
+    text-decoration: line-through;
+}
+
+.bg{
+    background-color: yellow;
+}
+
+.un{
+    text-decoration: underline;
+}
+.con{
+  letter-spacing: 5px;
+  color: maroon;
+}
+.pg{
+  color: maroon;
+}
+.go{
+  background-color: yellow;
+  font-style: italic;
+  color: maroon;
+  text-decoration: none;
+}
